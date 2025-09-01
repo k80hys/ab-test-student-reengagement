@@ -1,0 +1,501 @@
+student_id,email_group,age,major,credits_completed,days_since_last_enroll,clicked_link,booked_call,reenrolled
+10001,A,54,Sociology,41,660,1,1,1
+10002,B,52,Psychology,119,905,0,0,0
+10003,A,44,Computer Science,42,770,0,0,0
+10004,A,46,Computer Science,91,870,0,0,0
+10005,A,24,History,111,452,0,0,0
+10006,B,26,Computer Science,118,646,0,0,0
+10007,A,41,Business Admin,89,434,0,0,0
+10008,A,48,Marketing,72,782,0,0,0
+10009,A,33,Marketing,105,259,1,1,1
+10010,B,54,Sociology,97,445,0,0,0
+10011,A,45,Psychology,34,280,0,0,0
+10012,A,49,History,66,756,1,1,0
+10013,A,26,Psychology,101,511,0,0,0
+10014,A,31,Computer Science,60,789,0,0,0
+10015,B,37,Sociology,38,96,0,0,0
+10016,A,47,Psychology,80,222,0,0,0
+10017,B,41,Business Admin,58,836,0,0,0
+10018,B,38,Marketing,107,646,0,0,0
+10019,B,45,Computer Science,69,915,0,0,0
+10020,A,46,Sociology,70,850,0,0,0
+10021,B,25,Psychology,115,120,0,0,0
+10022,A,54,History,40,624,1,0,0
+10023,B,50,Business Admin,52,515,0,0,0
+10024,B,33,Business Admin,30,483,1,0,0
+10025,B,25,Psychology,75,761,0,0,0
+10026,B,49,Marketing,50,452,0,0,0
+10027,B,40,Psychology,119,526,1,1,0
+10028,B,31,Computer Science,65,759,0,0,0
+10029,B,24,Psychology,83,640,0,0,0
+10030,B,32,Business Admin,116,171,0,0,0
+10031,A,34,Sociology,86,445,1,0,0
+10032,A,45,Psychology,30,347,1,1,1
+10033,B,39,Marketing,92,807,0,0,0
+10034,B,30,Sociology,83,678,0,0,0
+10035,B,52,History,84,613,0,0,0
+10036,A,33,Nursing,69,384,0,0,0
+10037,B,46,Psychology,44,313,0,0,0
+10038,A,49,Marketing,50,614,0,0,0
+10039,A,26,Sociology,76,135,0,0,0
+10040,A,41,Marketing,102,756,0,0,0
+10041,A,48,History,82,202,0,0,0
+10042,A,47,Business Admin,38,322,1,1,1
+10043,B,36,Marketing,103,106,1,0,0
+10044,B,51,Sociology,81,449,0,0,0
+10045,B,49,Marketing,86,312,1,1,0
+10046,B,30,Marketing,55,955,0,0,0
+10047,B,48,Marketing,70,789,0,0,0
+10048,A,27,Computer Science,64,537,0,0,0
+10049,B,36,Computer Science,92,945,0,0,0
+10050,B,43,Business Admin,54,454,0,0,0
+10051,A,24,Psychology,119,764,0,0,0
+10052,B,31,Marketing,104,415,1,1,1
+10053,A,37,History,67,556,1,1,0
+10054,B,39,Psychology,31,503,1,0,0
+10055,A,37,History,36,544,1,1,1
+10056,B,35,Psychology,111,675,0,0,0
+10057,B,42,Business Admin,63,322,0,0,0
+10058,A,46,Marketing,46,313,0,0,0
+10059,A,38,Marketing,72,920,1,0,0
+10060,A,51,Nursing,88,501,1,0,0
+10061,A,25,History,80,661,0,0,0
+10062,A,25,Psychology,83,424,0,0,0
+10063,A,46,Psychology,53,311,0,0,0
+10064,A,54,Computer Science,54,126,0,0,0
+10065,A,45,Nursing,100,367,0,0,0
+10066,B,42,Sociology,81,285,0,0,0
+10067,B,48,Sociology,99,953,0,0,0
+10068,A,49,Computer Science,117,573,0,0,0
+10069,B,54,Computer Science,62,331,0,0,0
+10070,B,53,Computer Science,78,413,0,0,0
+10071,B,52,History,58,820,0,0,0
+10072,B,45,History,92,281,0,0,0
+10073,A,49,Business Admin,51,106,1,0,0
+10074,B,49,Business Admin,55,613,0,0,0
+10075,A,45,Computer Science,57,490,1,0,0
+10076,B,40,Nursing,114,995,1,0,0
+10077,B,43,Psychology,78,975,1,0,0
+10078,B,33,History,100,794,0,0,0
+10079,A,29,Nursing,110,111,0,0,0
+10080,B,38,Marketing,113,563,1,0,0
+10081,A,45,History,78,209,0,0,0
+10082,B,34,History,49,299,1,0,0
+10083,A,51,Business Admin,115,395,0,0,0
+10084,B,28,Psychology,92,359,0,0,0
+10085,A,24,Psychology,90,793,1,1,1
+10086,A,31,Sociology,78,776,0,0,0
+10087,B,44,Sociology,100,374,1,1,1
+10088,A,51,Sociology,30,805,0,0,0
+10089,B,35,Sociology,42,765,0,0,0
+10090,B,35,Marketing,116,852,0,0,0
+10091,B,28,Marketing,80,316,0,0,0
+10092,B,30,History,85,470,0,0,0
+10093,B,27,Computer Science,112,549,0,0,0
+10094,B,29,Business Admin,91,96,0,0,0
+10095,B,36,Business Admin,61,118,1,1,1
+10096,B,43,Sociology,59,996,0,0,0
+10097,B,53,History,58,122,1,0,0
+10098,B,38,Nursing,78,735,1,0,0
+10099,B,26,Computer Science,74,968,0,0,0
+10100,A,46,History,59,168,0,0,0
+10101,A,31,Computer Science,45,548,0,0,0
+10102,B,43,Computer Science,69,659,0,0,0
+10103,B,39,Computer Science,48,627,1,0,0
+10104,B,36,History,47,571,0,0,0
+10105,B,41,Sociology,30,519,1,0,0
+10106,B,51,Business Admin,107,827,0,0,0
+10107,B,33,Business Admin,76,374,0,0,0
+10108,B,53,Sociology,95,605,0,0,0
+10109,B,42,Computer Science,67,188,0,0,0
+10110,A,40,Nursing,80,486,0,0,0
+10111,B,47,Psychology,92,578,0,0,0
+10112,A,54,History,33,128,0,0,0
+10113,B,42,Psychology,30,360,0,0,0
+10114,B,51,Sociology,37,976,0,0,0
+10115,A,49,Nursing,58,886,0,0,0
+10116,B,46,History,84,246,1,1,0
+10117,A,49,Sociology,32,164,0,0,0
+10118,B,28,Computer Science,61,973,0,0,0
+10119,B,49,Business Admin,39,889,0,0,0
+10120,A,44,Psychology,103,219,0,0,0
+10121,B,53,Marketing,112,776,0,0,0
+10122,A,46,Marketing,63,173,1,0,0
+10123,B,54,Nursing,116,111,1,0,0
+10124,A,32,Computer Science,84,548,0,0,0
+10125,A,35,Psychology,61,628,0,0,0
+10126,B,44,Computer Science,79,796,0,0,0
+10127,B,24,Psychology,36,938,0,0,0
+10128,A,49,Nursing,37,471,0,0,0
+10129,B,49,Nursing,94,837,1,1,0
+10130,B,24,Marketing,86,529,0,0,0
+10131,B,38,Computer Science,96,693,0,0,0
+10132,A,25,History,117,110,0,0,0
+10133,A,53,Marketing,116,392,0,0,0
+10134,A,45,Computer Science,88,958,0,0,0
+10135,A,39,Marketing,101,173,0,0,0
+10136,A,48,History,83,863,0,0,0
+10137,A,31,Business Admin,96,748,0,0,0
+10138,A,36,Business Admin,80,542,0,0,0
+10139,A,44,Business Admin,37,476,0,0,0
+10140,A,24,Business Admin,63,596,0,0,0
+10141,B,39,Sociology,64,346,0,0,0
+10142,A,52,Psychology,117,659,1,1,0
+10143,B,30,Sociology,107,981,0,0,0
+10144,B,54,Sociology,61,616,0,0,0
+10145,B,28,Sociology,75,251,0,0,0
+10146,A,45,Business Admin,45,252,0,0,0
+10147,A,52,History,97,921,0,0,0
+10148,A,46,Nursing,66,882,1,1,1
+10149,A,26,Nursing,83,881,0,0,0
+10150,B,35,Psychology,114,613,0,0,0
+10151,A,49,Business Admin,43,875,0,0,0
+10152,A,39,Business Admin,84,360,0,0,0
+10153,A,42,Business Admin,77,581,0,0,0
+10154,A,28,Marketing,111,297,0,0,0
+10155,A,45,Computer Science,36,628,0,0,0
+10156,B,48,Marketing,103,673,0,0,0
+10157,A,52,Computer Science,36,149,0,0,0
+10158,B,37,Business Admin,62,519,1,1,0
+10159,A,51,Business Admin,52,746,0,0,0
+10160,B,28,Marketing,114,694,1,1,1
+10161,A,38,Marketing,48,398,0,0,0
+10162,A,40,Computer Science,48,609,0,0,0
+10163,B,53,Nursing,65,680,0,0,0
+10164,B,37,Computer Science,58,116,1,0,0
+10165,B,53,Marketing,89,775,0,0,0
+10166,A,43,History,111,651,0,0,0
+10167,B,28,Marketing,31,288,0,0,0
+10168,A,35,History,30,476,0,0,0
+10169,A,39,Psychology,76,438,0,0,0
+10170,B,49,Marketing,98,782,1,0,0
+10171,B,49,Psychology,49,625,0,0,0
+10172,A,39,Nursing,40,917,1,0,0
+10173,A,44,Computer Science,31,467,0,0,0
+10174,B,30,History,96,988,0,0,0
+10175,B,27,Computer Science,116,647,0,0,0
+10176,B,24,Psychology,41,616,0,0,0
+10177,A,53,History,49,242,1,1,0
+10178,A,53,Computer Science,34,823,0,0,0
+10179,A,28,Marketing,66,295,0,0,0
+10180,A,46,Business Admin,67,544,1,0,0
+10181,A,49,Psychology,38,362,0,0,0
+10182,A,33,Computer Science,82,983,0,0,0
+10183,B,45,Psychology,73,325,1,0,0
+10184,A,28,Sociology,115,941,0,0,0
+10185,A,27,Psychology,53,829,0,0,0
+10186,A,25,History,110,610,0,0,0
+10187,B,43,Sociology,103,767,0,0,0
+10188,A,54,History,59,920,0,0,0
+10189,A,33,Business Admin,88,815,1,0,0
+10190,B,49,Sociology,116,590,1,1,0
+10191,A,42,Marketing,110,206,0,0,0
+10192,A,49,Psychology,110,475,1,0,0
+10193,A,24,Computer Science,43,433,1,0,0
+10194,A,47,Nursing,38,673,0,0,0
+10195,A,28,Psychology,69,484,0,0,0
+10196,B,36,Psychology,95,153,0,0,0
+10197,B,27,Business Admin,54,806,1,0,0
+10198,B,39,Marketing,102,810,0,0,0
+10199,A,47,Nursing,51,161,0,0,0
+10200,A,39,Sociology,33,878,1,0,0
+10201,A,46,Sociology,55,363,0,0,0
+10202,B,25,Sociology,87,409,0,0,0
+10203,A,40,History,58,427,0,0,0
+10204,A,51,History,116,455,0,0,0
+10205,B,50,Computer Science,66,584,0,0,0
+10206,A,43,Nursing,104,696,0,0,0
+10207,B,47,Sociology,99,255,0,0,0
+10208,B,35,History,47,633,1,0,0
+10209,B,41,Computer Science,114,100,0,0,0
+10210,A,26,Marketing,71,390,0,0,0
+10211,A,51,Computer Science,70,818,0,0,0
+10212,A,24,History,67,890,0,0,0
+10213,A,24,Business Admin,63,191,1,1,1
+10214,A,52,Business Admin,46,514,0,0,0
+10215,A,42,Sociology,66,481,0,0,0
+10216,A,34,Business Admin,54,868,1,0,0
+10217,B,28,Sociology,105,303,0,0,0
+10218,A,35,Sociology,116,780,1,0,0
+10219,B,26,History,115,177,0,0,0
+10220,A,24,Business Admin,114,642,0,0,0
+10221,A,24,Sociology,56,490,0,0,0
+10222,A,31,Nursing,86,677,0,0,0
+10223,B,33,Marketing,60,978,0,0,0
+10224,B,34,Computer Science,35,135,0,0,0
+10225,B,35,Computer Science,69,761,0,0,0
+10226,B,52,History,41,552,0,0,0
+10227,A,36,Business Admin,82,681,0,0,0
+10228,B,35,Business Admin,100,399,1,1,0
+10229,A,54,Sociology,39,175,1,0,0
+10230,A,37,Psychology,74,181,0,0,0
+10231,B,25,Sociology,46,749,0,0,0
+10232,B,52,Marketing,55,762,0,0,0
+10233,B,42,Nursing,114,803,0,0,0
+10234,B,41,Computer Science,91,331,0,0,0
+10235,B,26,Sociology,75,954,0,0,0
+10236,B,46,Psychology,93,91,0,0,0
+10237,B,40,Psychology,31,314,0,0,0
+10238,B,49,Sociology,83,890,1,1,0
+10239,A,31,History,94,834,0,0,0
+10240,B,52,Computer Science,80,678,1,1,0
+10241,B,49,History,82,205,0,0,0
+10242,A,33,Nursing,65,755,0,0,0
+10243,B,49,Psychology,55,192,0,0,0
+10244,A,53,Psychology,58,283,1,1,1
+10245,A,25,Marketing,50,255,0,0,0
+10246,B,42,Nursing,40,960,1,1,1
+10247,A,32,Psychology,69,179,0,0,0
+10248,A,30,Nursing,40,775,0,0,0
+10249,A,27,Computer Science,65,211,0,0,0
+10250,A,49,Business Admin,88,232,0,0,0
+10251,B,44,Psychology,68,195,0,0,0
+10252,A,41,Marketing,83,976,0,0,0
+10253,B,36,Computer Science,84,517,0,0,0
+10254,A,34,Sociology,53,394,0,0,0
+10255,A,52,Nursing,51,961,0,0,0
+10256,A,47,Sociology,98,406,1,0,0
+10257,A,27,History,85,724,0,0,0
+10258,B,48,Computer Science,62,991,1,0,0
+10259,B,44,Sociology,65,98,1,1,0
+10260,A,52,Psychology,49,863,0,0,0
+10261,A,48,Nursing,112,162,0,0,0
+10262,B,27,Business Admin,110,448,0,0,0
+10263,A,33,Computer Science,91,312,1,0,0
+10264,A,28,Psychology,102,505,0,0,0
+10265,A,32,Marketing,55,642,1,1,0
+10266,B,47,History,95,459,0,0,0
+10267,B,26,Nursing,102,805,1,0,0
+10268,B,40,Computer Science,102,353,0,0,0
+10269,A,26,Computer Science,69,929,0,0,0
+10270,A,39,Business Admin,46,779,0,0,0
+10271,B,27,Business Admin,30,949,0,0,0
+10272,B,41,Marketing,118,407,1,0,0
+10273,B,40,History,90,173,1,0,0
+10274,B,30,Marketing,72,407,0,0,0
+10275,A,47,Psychology,71,200,0,0,0
+10276,B,46,Psychology,54,340,1,1,1
+10277,A,53,Marketing,68,472,0,0,0
+10278,B,28,History,64,96,1,0,0
+10279,A,35,Marketing,32,548,0,0,0
+10280,B,40,History,73,173,0,0,0
+10281,B,46,History,80,297,1,1,0
+10282,B,36,Sociology,41,989,1,0,0
+10283,B,46,Nursing,48,479,1,0,0
+10284,A,48,History,73,403,1,0,0
+10285,B,26,Business Admin,88,111,1,1,1
+10286,A,32,History,78,499,1,1,1
+10287,A,53,History,90,984,0,0,0
+10288,A,40,History,46,604,0,0,0
+10289,A,40,Sociology,103,216,0,0,0
+10290,B,53,Sociology,86,898,0,0,0
+10291,A,43,Psychology,84,789,0,0,0
+10292,A,39,Sociology,76,963,0,0,0
+10293,A,48,Business Admin,41,103,1,1,0
+10294,B,45,Business Admin,91,101,0,0,0
+10295,B,36,Sociology,109,176,0,0,0
+10296,B,50,Marketing,117,613,1,0,0
+10297,B,42,Nursing,112,998,0,0,0
+10298,A,40,Sociology,37,626,0,0,0
+10299,A,27,History,50,390,1,0,0
+10300,B,35,Computer Science,110,332,0,0,0
+10301,A,52,Nursing,116,211,0,0,0
+10302,A,32,Nursing,109,236,0,0,0
+10303,A,42,Business Admin,99,656,1,1,1
+10304,B,35,Nursing,101,839,0,0,0
+10305,B,32,Sociology,54,445,1,1,0
+10306,A,30,History,111,774,0,0,0
+10307,B,51,History,118,993,0,0,0
+10308,B,37,Psychology,41,822,1,0,0
+10309,B,54,History,44,720,1,1,1
+10310,B,43,History,88,398,0,0,0
+10311,B,42,Business Admin,55,784,1,0,0
+10312,A,49,History,55,377,1,1,1
+10313,B,38,Psychology,76,396,1,0,0
+10314,A,39,Computer Science,61,901,0,0,0
+10315,A,44,Sociology,39,683,0,0,0
+10316,B,28,Business Admin,45,812,0,0,0
+10317,A,26,Computer Science,100,751,0,0,0
+10318,A,35,Business Admin,46,638,0,0,0
+10319,A,48,Marketing,52,441,0,0,0
+10320,B,43,Nursing,55,401,1,0,0
+10321,B,50,Marketing,114,962,0,0,0
+10322,A,44,History,115,148,0,0,0
+10323,B,27,Computer Science,36,732,0,0,0
+10324,B,44,History,43,803,1,0,0
+10325,B,46,Nursing,108,844,0,0,0
+10326,B,39,Business Admin,36,124,1,1,0
+10327,A,48,Nursing,38,534,0,0,0
+10328,A,30,Psychology,77,182,0,0,0
+10329,B,36,Nursing,101,296,0,0,0
+10330,B,44,Psychology,88,442,0,0,0
+10331,A,33,Nursing,116,992,0,0,0
+10332,A,49,Sociology,111,421,1,1,1
+10333,B,30,Psychology,68,906,0,0,0
+10334,A,37,Computer Science,47,951,0,0,0
+10335,B,54,History,88,814,0,0,0
+10336,B,49,History,46,248,0,0,0
+10337,A,28,Marketing,43,113,0,0,0
+10338,A,26,History,60,493,0,0,0
+10339,B,46,Business Admin,53,894,0,0,0
+10340,B,52,Sociology,89,605,1,1,1
+10341,A,34,Nursing,74,821,1,1,0
+10342,B,34,Marketing,32,453,1,1,1
+10343,A,41,Business Admin,66,471,0,0,0
+10344,B,38,Business Admin,72,621,0,0,0
+10345,A,35,Psychology,69,241,1,0,0
+10346,A,32,History,119,651,1,0,0
+10347,A,33,Computer Science,84,778,0,0,0
+10348,B,49,Computer Science,116,697,0,0,0
+10349,B,35,Marketing,68,706,0,0,0
+10350,A,40,Sociology,44,509,0,0,0
+10351,B,52,Computer Science,33,339,0,0,0
+10352,A,29,Nursing,115,206,0,0,0
+10353,A,30,Computer Science,54,955,0,0,0
+10354,B,37,Marketing,42,601,0,0,0
+10355,B,36,Computer Science,111,829,0,0,0
+10356,A,31,Nursing,62,667,1,1,0
+10357,B,33,Psychology,45,424,1,0,0
+10358,B,32,Sociology,71,507,0,0,0
+10359,A,41,Marketing,95,863,1,0,0
+10360,A,50,Psychology,84,384,1,0,0
+10361,B,49,Psychology,71,844,1,1,0
+10362,A,25,Psychology,63,460,0,0,0
+10363,A,28,Business Admin,59,275,0,0,0
+10364,B,52,Sociology,42,335,0,0,0
+10365,A,28,History,42,726,0,0,0
+10366,A,29,Sociology,47,357,0,0,0
+10367,B,42,Business Admin,61,732,0,0,0
+10368,B,31,History,68,326,0,0,0
+10369,A,39,Sociology,75,619,0,0,0
+10370,A,36,Psychology,58,641,1,1,1
+10371,B,24,Marketing,91,110,1,0,0
+10372,B,45,History,91,826,0,0,0
+10373,B,43,Nursing,86,956,0,0,0
+10374,B,40,Nursing,45,883,1,0,0
+10375,A,54,Computer Science,85,609,0,0,0
+10376,B,30,History,39,189,1,0,0
+10377,B,48,Marketing,59,841,0,0,0
+10378,A,36,Business Admin,54,567,0,0,0
+10379,B,27,Psychology,113,688,0,0,0
+10380,A,27,Computer Science,34,387,0,0,0
+10381,B,29,Nursing,94,615,0,0,0
+10382,B,51,Business Admin,78,423,1,0,0
+10383,B,54,Business Admin,32,91,1,1,1
+10384,A,42,Psychology,74,464,0,0,0
+10385,A,52,History,43,382,0,0,0
+10386,B,35,Nursing,59,926,0,0,0
+10387,A,45,Marketing,97,642,0,0,0
+10388,A,30,Business Admin,47,407,0,0,0
+10389,A,50,Psychology,91,591,1,1,1
+10390,A,33,Marketing,66,917,0,0,0
+10391,A,49,History,54,470,1,1,0
+10392,A,42,Nursing,77,712,0,0,0
+10393,B,30,History,94,103,0,0,0
+10394,B,53,Business Admin,82,593,0,0,0
+10395,A,26,Marketing,108,320,0,0,0
+10396,B,36,Marketing,102,173,0,0,0
+10397,B,36,Marketing,44,219,0,0,0
+10398,B,41,Business Admin,78,832,1,0,0
+10399,B,51,Business Admin,117,927,0,0,0
+10400,A,53,History,97,234,1,0,0
+10401,B,49,Computer Science,41,980,1,1,0
+10402,B,43,History,88,946,0,0,0
+10403,A,51,Nursing,66,117,1,0,0
+10404,A,31,Psychology,90,155,1,0,0
+10405,B,52,Marketing,72,252,0,0,0
+10406,B,54,Computer Science,99,318,0,0,0
+10407,B,32,Psychology,68,350,1,1,0
+10408,B,30,Computer Science,85,538,1,0,0
+10409,B,24,Sociology,92,513,1,1,1
+10410,B,26,History,75,549,0,0,0
+10411,A,36,Business Admin,117,765,1,1,1
+10412,B,51,Marketing,40,390,1,0,0
+10413,B,53,History,91,392,0,0,0
+10414,A,48,Psychology,106,376,0,0,0
+10415,A,54,Sociology,54,484,0,0,0
+10416,A,51,Sociology,100,99,0,0,0
+10417,A,40,Sociology,81,796,1,0,0
+10418,B,48,Psychology,33,719,0,0,0
+10419,B,47,Psychology,88,359,0,0,0
+10420,B,24,Psychology,101,681,0,0,0
+10421,B,29,Psychology,49,694,0,0,0
+10422,B,44,Sociology,92,867,0,0,0
+10423,B,29,Sociology,83,933,0,0,0
+10424,A,49,Computer Science,103,951,0,0,0
+10425,B,35,History,86,450,0,0,0
+10426,A,36,Marketing,119,346,0,0,0
+10427,A,36,Business Admin,70,222,1,0,0
+10428,B,52,Sociology,32,365,1,0,0
+10429,A,38,Business Admin,35,865,0,0,0
+10430,B,44,History,34,772,1,1,1
+10431,A,39,History,34,602,0,0,0
+10432,B,45,Business Admin,83,402,0,0,0
+10433,A,44,Sociology,76,665,0,0,0
+10434,B,34,Business Admin,116,975,0,0,0
+10435,B,51,Computer Science,78,373,0,0,0
+10436,B,28,Nursing,38,210,0,0,0
+10437,B,27,Sociology,49,196,0,0,0
+10438,B,26,Sociology,90,776,0,0,0
+10439,A,42,Marketing,64,293,0,0,0
+10440,A,43,Psychology,79,254,0,0,0
+10441,A,48,Nursing,111,394,0,0,0
+10442,B,41,History,91,586,0,0,0
+10443,A,38,Sociology,46,721,0,0,0
+10444,B,32,Business Admin,117,645,0,0,0
+10445,B,40,Nursing,32,913,0,0,0
+10446,A,37,Marketing,61,245,0,0,0
+10447,A,38,History,42,456,0,0,0
+10448,B,54,Psychology,118,808,1,0,0
+10449,A,24,Psychology,102,991,0,0,0
+10450,B,44,Marketing,97,709,0,0,0
+10451,B,45,Marketing,43,340,0,0,0
+10452,B,45,Business Admin,40,971,1,1,1
+10453,B,26,Sociology,85,423,0,0,0
+10454,B,39,Psychology,96,731,0,0,0
+10455,A,46,History,58,600,1,0,0
+10456,A,48,Nursing,38,382,0,0,0
+10457,B,34,History,96,109,0,0,0
+10458,B,35,Computer Science,54,371,0,0,0
+10459,A,33,Computer Science,105,886,1,1,0
+10460,A,39,Marketing,71,90,0,0,0
+10461,B,31,Business Admin,38,208,0,0,0
+10462,A,29,Computer Science,108,124,0,0,0
+10463,B,35,Psychology,69,287,1,0,0
+10464,A,47,History,54,574,0,0,0
+10465,B,51,History,34,846,1,1,1
+10466,A,44,Marketing,40,148,0,0,0
+10467,B,31,Sociology,88,926,1,1,0
+10468,A,49,Sociology,117,250,0,0,0
+10469,A,51,Nursing,108,780,0,0,0
+10470,B,27,Marketing,67,295,0,0,0
+10471,A,49,Nursing,101,101,0,0,0
+10472,B,31,Sociology,34,579,0,0,0
+10473,A,49,Marketing,77,365,1,1,1
+10474,B,51,Marketing,119,782,0,0,0
+10475,A,41,Marketing,47,331,1,0,0
+10476,B,51,Sociology,99,305,0,0,0
+10477,A,51,Nursing,66,340,0,0,0
+10478,B,28,Nursing,89,900,0,0,0
+10479,A,32,Marketing,77,215,1,0,0
+10480,B,27,Computer Science,106,306,0,0,0
+10481,B,50,Business Admin,57,395,0,0,0
+10482,B,45,Sociology,98,886,0,0,0
+10483,A,54,Business Admin,106,274,1,0,0
+10484,B,40,Business Admin,110,128,0,0,0
+10485,A,32,Nursing,69,312,0,0,0
+10486,B,24,Nursing,74,273,0,0,0
+10487,A,44,Computer Science,91,584,0,0,0
+10488,B,43,Business Admin,87,516,0,0,0
+10489,A,36,Business Admin,96,267,0,0,0
+10490,A,51,Marketing,85,517,0,0,0
+10491,B,39,Nursing,69,383,1,1,1
+10492,A,52,Business Admin,69,941,0,0,0
+10493,A,36,History,106,240,0,0,0
+10494,B,37,Computer Science,62,473,0,0,0
+10495,A,26,History,35,727,0,0,0
+10496,A,52,History,117,902,0,0,0
+10497,A,29,Sociology,48,397,0,0,0
+10498,B,41,Sociology,109,425,1,0,0
+10499,A,42,Computer Science,69,835,0,0,0
+10500,B,28,History,88,981,0,0,0
