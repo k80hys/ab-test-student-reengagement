@@ -1,82 +1,80 @@
-# A/B Test Student Outreach Analysis
+# 🎓 A/B Test Framework: Student Re-Engagement via Email Outreach
 
-This project analyzes the effectiveness of different email campaigns for student re-enrollment using A/B testing methodology.
+This project demonstrates a **theoretical A/B testing framework** designed to analyze the impact of personalized email outreach on student re-engagement and re-enrollment. It simulates how an education technology company might structure a data-driven experiment targeting students who have stopped out of college.
 
-## Project Structure
+---
 
-- `dataset.py` - Generates synthetic A/B test data for student email campaigns
-- `ab_test.py` - Performs statistical analysis on the A/B test results
-- `environment.yml` - Conda environment specification
-- `requirements.txt` - Python package dependencies
+## 💡 Project Overview
 
-## Setup with Anaconda
+- **Objective:** Determine whether personalized emails increase student engagement and re-enrollment rates.
+- **Approach:** Simulate student data, assign A/B groups, and track their progress through a 3-step funnel: 
+  - Link Click → Call Booking → Re-Enrollment
+- **Tools:** Python, pandas, seaborn, matplotlib, scipy
 
-### Option 1: Using Conda Environment (Recommended)
+---
 
-1. **Create the conda environment:**
-   ```bash
-   conda env create -f environment.yml
-   ```
+## 📁 Project Structure
+AB_test_project/
+├── dataset.py # Simulates student data and writes CSV
+├── ab_test.py # Performs funnel analysis and statistical testing
+├── ab_visualization.py # Generates funnel conversion chart
+├── ab_test_student_outreach.csv # Simulated dataset
+├── requirements.txt # Python packages used
+├── .gitignore # Excludes venv, cache, etc.
+└── README.md # Project description
 
-2. **Activate the environment:**
-   ```bash
-   conda activate ab-test-project
-   ```
+---
 
-3. **Run the analysis:**
-   ```bash
-   python dataset.py  # Generate the data
-   python ab_test.py  # Run the A/B test analysis
-   ```
+## 📊 Key Features
 
-### Option 2: Using Base Anaconda Environment
+- 🧪 **A/B Experiment Design**  
+  Simulates two groups:  
+  - **Group A (Control):** Standard email  
+  - **Group B (Test):** Personalized email  
 
-1. **Install required packages:**
-   ```bash
-   conda install pandas numpy scipy matplotlib seaborn jupyter
-   ```
+- 🧬 **Synthetic Data Generation**  
+  Generates attributes like age, major, credits completed, and enrollment status using `numpy` and `pandas`.
 
-2. **Or install from requirements.txt:**
-   ```bash
-   pip install -r requirements.txt
-   ```
+- 📈 **Funnel Metrics Calculated**
+  - Click-through Rate (CTR)
+  - Booking Rate (from clicks)
+  - Re-Enrollment Rate (from bookings)
 
-3. **Run the analysis:**
-   ```bash
-   python dataset.py  # Generate the data
-   python ab_test.py  # Run the A/B test analysis
-   ```
+- 📉 **Statistical Significance Testing**  
+  - Uses Chi-Square tests to evaluate if group differences are statistically significant.
 
-### Option 3: Using Jupyter Notebook in Anaconda
+- 📊 **Data Visualization**  
+  - Creates a funnel-style stacked bar chart comparing both groups across each stage.
 
-1. **Start Jupyter:**
-   ```bash
-   jupyter notebook
-   ```
+---
 
-2. **Create a new notebook and run the analysis interactively**
+## 🧪 Sample Theoretical Results
 
-## Data Description
+| Metric             | Group A (Standard Email) | Group B (Personalized Email) |
+|--------------------|--------------------------|-------------------------------|
+| Click-Through Rate | 24.6%                    | 29.3%                         |
+| Booking Rate       | 45.0%                    | 44.0%                         |
+| Re-Enrollment Rate | 63.0%                    | 48.5%                         |
 
-The dataset includes:
-- Student demographics (age, major, credits completed)
-- Email campaign assignment (Group A vs Group B)
-- Conversion funnel metrics:
-  - Clicked email link
-  - Booked consultation call
-  - Successfully re-enrolled
+> 🔍 These results suggest that personalized emails may drive more initial engagement (clicks), but further analysis would be needed to understand downstream effects.
 
-## Analysis Results
+---
 
-The A/B test analyzes:
-- Click-through rates between email groups
-- Conversion rates at each funnel stage
-- Statistical significance using Chi-square tests
-- Overall re-enrollment effectiveness
+## 📦 Requirements
 
-## Deactivating Environment
+To install the necessary Python libraries:
 
-When finished, deactivate the conda environment:
 ```bash
-conda deactivate
-```
+pip install -r requirements.txt
+
+## 🚀 How to Run
+
+Clone this repo
+Run dataset.py to generate the CSV
+Run ab_test.py to analyze the dataset
+Run ab_visualization.py to generate the funnel chart
+
+## 📌 Notes
+
+This is a theoretical project created for portfolio purposes and does not reflect real student data.
+Inspired by challenges in education technology related to student retention and re-enrollment.
