@@ -15,13 +15,13 @@ This project demonstrates a **theoretical A/B testing framework** designed to an
 
 ## 📁 Project Structure
 AB_test_project/
-├── dataset.py # Simulates student data and writes CSV
-├── ab_test.py # Performs funnel analysis and statistical testing
-├── ab_visualization.py # Generates funnel conversion chart
-├── ab_test_student_outreach.csv # Simulated dataset
-├── requirements.txt # Python packages used
-├── .gitignore # Excludes venv, cache, etc.
-└── README.md # Project description
+- dataset.py # Simulates student data and writes CSV
+- ab_test.py # Performs funnel analysis and statistical testing
+- ab_visualization.py # Generates funnel conversion chart
+- ab_test_student_outreach.csv # Simulated dataset
+- requirements.txt # Python packages used
+- .gitignore # Excludes venv, cache, etc.
+- README.md # Project description
 
 ---
 
@@ -66,15 +66,16 @@ To install the necessary Python libraries:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## 🚀 How to Run
 
-Clone this repo
-Run dataset.py to generate the CSV
-Run ab_test.py to analyze the dataset
-Run ab_visualization.py to generate the funnel chart
+- Clone this repo
+- Run dataset.py to generate the CSV
+- Run ab_test.py to analyze the dataset
+- Run ab_visualization.py to generate the funnel chart
 
 ## 📌 Notes
 
-This is a theoretical project created for portfolio purposes and does not reflect real student data.
-Inspired by challenges in education technology related to student retention and re-enrollment.
+- This is a theoretical project created for portfolio purposes and does not reflect real student data.
+- Inspired by challenges in education technology related to student retention and re-enrollment.
